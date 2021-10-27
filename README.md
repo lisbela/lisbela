@@ -7,8 +7,6 @@
 - 💞️ I’m looking to collaborate on Social impact open source projects
 - 💬 Ask me about `[Python, Ruby, Ruby on Rails, R, Robotics, WCET Estimation]` 
 
-- ![Gmail](https://img.shields.io/badge/email-jessantillo%40gmail.com-ff69b4) 
-
 ![Lisbela's github stats](https://github-readme-stats.vercel.app/api?username=lisbela&show_icons=true&theme=radical)
 
 [![GitHub Followers](https://img.shields.io/github/followers/lisbela?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/lisbela)
