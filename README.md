@@ -1,7 +1,7 @@
 # Hi, I’m Jessica 👋 
 
 - ⚡ I'm a Control and Automation Engineer, Msc.
-- 🔭 I’m currently working as Backend Developer at NTT DATA (https://www.nttdata.com/)
+- 🔭 I’m currently working as Backend Developer at NTT DATA
 - 👀 I’m interested in Computer vision and Real-Time Systems
 - 🌱 I’m learning about Machine Learning and Neural Networks
 - 💞️ I’m looking to collaborate on Social impact open source projects
