@@ -2,7 +2,7 @@
 
 - ⚡ I'm a Control and Automation Engineer, Msc.
 
-- 🔭 I’m currently working as Backend Developer at NTT DATA
+- 🔭 I’m currently working as Backend Developer.
 
 - 👀 I’m interested in Computer vision and Real-Time Systems
 
